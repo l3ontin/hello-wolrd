@@ -1,4 +1,4 @@
-# hello-wolrd
+# hello-world
 
 Hi people
 
